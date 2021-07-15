@@ -1,0 +1,8 @@
+{
+  "MAX_PLAYLIST_SIZE": 999,
+  "PREFIX": "-",
+  "PRUNING": true,
+  "LOCALE": "vi",
+  "STAY_TIME": 0,
+  "DEFAULT_VOLUME": 100
+}
